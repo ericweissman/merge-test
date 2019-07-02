@@ -6,3 +6,8 @@
   margin: 3px;
   border: 1px solid magenta;
 }
+
+.new-class {
+  color: red;
+  border: 2px solid goldenrod;
+}
