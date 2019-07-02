@@ -8,6 +8,7 @@
 }
 
 .new-class {
-  color: magenta;
+  color: red;
+  border: 2px solid goldenrod;
   font-size: 200%;
 }
